@@ -7,5 +7,5 @@
 
 -Estou na aula de **Pensamento Computacional** primeira aula do dia
 
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWwxMXVubG1hMzI0cW5pMDVmZ2wzaGxkOWhoM2llNzMycXF0bm84ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXjceaLAndlPa/giphy.gif)
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmsxcm8wMnZoOTlzcno3MWpwMmFxMTM3eWk0ZW5oNnpudHY4MjNrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Zaoyr0zW9NJLiF6Pv/giphy.gif)
 
